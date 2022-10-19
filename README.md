@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hola mi nombre es Cristian 🤘
+### Soy una persona que simplemente existe y estudia en  [<img src="https://pbs.twimg.com/profile_images/1460269167123308544/fVV6ELy7_400x400.png" width=50>](https://www.cevbarcelona.com/)
 
 <!--
 **Cristian-Romero-2B/Cristian-Romero-2B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
