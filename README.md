@@ -1,4 +1,4 @@
-## Hola mi nombre es Cristian 🤘
+# Hola mi nombre es Cristian 🤘
 ### Soy una persona que simplemente existe y estudia en  [<img src="https://pbs.twimg.com/profile_images/1460269167123308544/fVV6ELy7_400x400.png" width=50>](https://www.cevbarcelona.com/)
 
 <!--
