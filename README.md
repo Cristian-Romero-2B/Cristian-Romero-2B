@@ -12,14 +12,16 @@
 ## Estos son los programas que utilizo ⛄:
 [![Premiere](https://img.shields.io/badge/Adobe_Premiere-7F7AC9?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=262076)]()
 <br>
-[![Github](https://img.shields.io/badge/Github_Desktop-EA84E8?style=for-the-badge&logo=github&logoColor=white&labelColor=871585)]()
-<br>
 [![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=0775A0)]()
 <br>
+[![After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white&labelColor=502076)]()
+<br>
+[![Github](https://img.shields.io/badge/Github_Desktop-EA84E8?style=for-the-badge&logo=github&logoColor=white&labelColor=871585)]()
+<br>
 [![Maya](https://img.shields.io/badge/Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=125875)]()
+[![3dMax](https://img.shields.io/badge/3dsMax-0696D7?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=125875)]()
 <br>
-[![3dMax](https://img.shields.io/badge/Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=125875)]()
-<br>
+
 <!--
 **Cristian-Romero-2B/Cristian-Romero-2B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
