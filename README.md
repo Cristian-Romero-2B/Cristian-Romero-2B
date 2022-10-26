@@ -18,6 +18,8 @@
 <br>
 [![Maya](https://img.shields.io/badge/Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=125875)]()
 <br>
+[![3dMax](https://img.shields.io/badge/Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=125875)]()
+<br>
 <!--
 **Cristian-Romero-2B/Cristian-Romero-2B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
