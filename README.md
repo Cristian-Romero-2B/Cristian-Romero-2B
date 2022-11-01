@@ -32,13 +32,19 @@
   <tr>
   <td>
           <a href="https://clashroyale.com/es/">
-                <img src="https://i.blogs.es/8935db/lroyale/1366_2000.jpg">
+                <img src="https://raw.githubusercontent.com/Cristian-Romero-2B/Cristian-Romero-2B/main/Games/Clash_Royale.png">
         </a>
 	</td>
   <td>
           <a href="https://es.bandainamcoent.eu/little-nightmares/little-nightmares">
-                <img src="https://nintendoeverything.com/wp-content/uploads/little-nightmares.png">
-
+                <img src="https://raw.githubusercontent.com/Cristian-Romero-2B/Cristian-Romero-2B/main/Games/little-nightmares.png">
+	</a>
+	</td>
+  </tr>
+  <tr>
+  <td>
+	  <a href="https://playvalorant.com/es-es/">
+	 	 <img src="https://raw.githubusercontent.com/Cristian-Romero-2B/Cristian-Romero-2B/main/Games/Valorant.png">
 <!--
 **Cristian-Romero-2B/Cristian-Romero-2B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
