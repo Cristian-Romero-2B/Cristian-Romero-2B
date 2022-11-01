@@ -21,6 +21,23 @@
 [![Maya](https://img.shields.io/badge/Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=125875)]()
 [![3dMax](https://img.shields.io/badge/3dsMax-0696D7?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=125875)]()
 <br>
+[![Unreal](https://img.shields.io/badge/Unreal-999999?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=1F1F1F)]()
+[![OBS](https://img.shields.io/badge/OBS-999999?style=for-the-badge&logo=obsstudio&logoColor=white&labelColor=1F1F1F)]()
+<br>
+[![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=white&labelColor=1F1F1F)]()
+[![ZBrush](https://img.shields.io/badge/ZBrush-F8F8F5?style=for-the-badge&logo=zerply&logoColor=white&labelColor=1F1F1F)]()
+<br>
+## He aquí algunos juegos con los que pierdo el tiempo 🎮:
+<table style="width:100%">
+  <tr>
+  <td>
+          <a href="https://clashroyale.com/es/">
+                <img src="https://i.blogs.es/8935db/lroyale/1366_2000.jpg">
+        </a>
+	</td>
+  <td>
+          <a href="https://es.bandainamcoent.eu/little-nightmares/little-nightmares">
+                <img src="https://nintendoeverything.com/wp-content/uploads/little-nightmares.png">
 
 <!--
 **Cristian-Romero-2B/Cristian-Romero-2B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
