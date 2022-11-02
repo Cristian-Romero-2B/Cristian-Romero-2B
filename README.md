@@ -27,6 +27,11 @@
 [![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=white&labelColor=1F1F1F)]()
 [![ZBrush](https://img.shields.io/badge/ZBrush-F8F8F5?style=for-the-badge&logo=zerply&logoColor=white&labelColor=1F1F1F)]()
 <br>
+## Skills 🛠:
+- Soy bastante creativo al hacer las cosas.
+- Me gusta trabajar en equipo.
+- Lo que no se hacer, lo aprendo.
+- Responsable con mis trabajos.
 ## He aquí algunos juegos con los que pierdo el tiempo 🎮:
 <table style="width:100%">
   <tr>
@@ -45,6 +50,43 @@
   <td>
 	  <a href="https://playvalorant.com/es-es/">
 	 	 <img src="https://raw.githubusercontent.com/Cristian-Romero-2B/Cristian-Romero-2B/main/Games/Valorant.png">
+	  </a>
+	</td>
+	<td>
+	<a href="https://store.epicgames.com/es-ES/p/in-sound-mind">
+  		<img src="https://raw.githubusercontent.com/Cristian-Romero-2B/Cristian-Romero-2B/main/Games/In_Sound_Mind.png">
+		  </tr>
+</table>
+</table>
+
+## Estos son algunos de mis trabajos 🤨:
+<table style="width:100%">
+  <tr>
+  <td>
+          <a href="https://www.artstation.com/artwork/lROByz">
+                <img src="https://raw.githubusercontent.com/Cristian-Romero-2B/Cristian-Romero-2B/main/Trabajos/Diorama.png">
+        </a>
+	</td>
+  <td>
+          <a href="https://www.artstation.com/artwork/QnRLEL">
+                <img src="https://raw.githubusercontent.com/Cristian-Romero-2B/Cristian-Romero-2B/main/Trabajos/Zbrush.png">
+	</a>
+	</td>
+  </tr>
+  <tr>
+  <td>
+	  <a href="https://www.artstation.com/artwork/d041dX">
+	 	 <img src="https://raw.githubusercontent.com/Cristian-Romero-2B/Cristian-Romero-2B/main/Trabajos/Pistola.png">
+	  </a>
+	</td>
+	<td>
+	<a href="https://www.artstation.com/artwork/EaYEB0">
+  		<img src="https://raw.githubusercontent.com/Cristian-Romero-2B/Cristian-Romero-2B/main/Trabajos/Prop.png">
+		  </tr>
+</table>
+</table>
+
+
 <!--
 **Cristian-Romero-2B/Cristian-Romero-2B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
