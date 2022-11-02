@@ -1,5 +1,5 @@
 # Hola mi nombre es Cristian 🤘
-### Soy una persona que simplemente existe, que es game designer y estudia en  [<img src="https://raw.githubusercontent.com/Cristian-Romero-2B/Cristian-Romero-2B/main/Imagenes/Logo_cev.png" width=50>](https://www.cevbarcelona.com/)
+### Soy una persona que simplemente existe, que quiere ser Game Designer y estudia en  [<img src="https://raw.githubusercontent.com/Cristian-Romero-2B/Cristian-Romero-2B/main/Imagenes/Logo_cev.png" width=46>](https://www.cevbarcelona.com/)
 
 [<img src="https://raw.githubusercontent.com/Cristian-Romero-2B/Cristian-Romero-2B/main/Imagenes/Banner.png" width=900>](https://github.com/Cristian-Romero-2B)
 [![Twitch Status](https://img.shields.io/twitch/status/fatal_cris?style=social)](https://twitch.tv/fatal_cris)
@@ -85,6 +85,24 @@
 		  </tr>
 </table>
 </table>
+
+## Encuentrame en 🔎:
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/fatal_cris)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/Zg9382Hp)
+<br>
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/fatal_cris)
+<br>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/fatal_cris)
+<br>
+[![TikTok](https://img.shields.io/badge/TikTok-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@fatal_cris)
+<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cristian-romero-116130224/)
+<br>
+[![Art_Station](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white&labelColor=101010)](https://www.artstation.com/art_cris)
+<br>
+## Gracias por ver mi perfil 😎
+<img src="https://raw.githubusercontent.com/Cristian-Romero-2B/Cristian-Romero-2B/main/Imagenes/stewie-dance.gif" width=270>
+
 
 
 <!--
