@@ -100,7 +100,7 @@
 <br>
 [![Art_Station](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white&labelColor=101010)](https://www.artstation.com/art_cris)
 <br>
-## Gracias por ver mi perfil 😎
+## Gracias por visitar mi perfil 😎
 <img src="https://raw.githubusercontent.com/Cristian-Romero-2B/Cristian-Romero-2B/main/Imagenes/stewie-dance.gif" width=270>
 
 
