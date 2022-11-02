@@ -1,5 +1,5 @@
 # Hola mi nombre es Cristian 🤘
-### Soy una persona que simplemente existe y estudia en  [<img src="https://raw.githubusercontent.com/Cristian-Romero-2B/Cristian-Romero-2B/main/Imagenes/Logo_cev.png" width=50>](https://www.cevbarcelona.com/)
+### Soy una persona que simplemente existe, que es game designer y estudia en  [<img src="https://raw.githubusercontent.com/Cristian-Romero-2B/Cristian-Romero-2B/main/Imagenes/Logo_cev.png" width=50>](https://www.cevbarcelona.com/)
 
 [<img src="https://raw.githubusercontent.com/Cristian-Romero-2B/Cristian-Romero-2B/main/Imagenes/Banner.png" width=900>](https://github.com/Cristian-Romero-2B)
 [![Twitch Status](https://img.shields.io/twitch/status/fatal_cris?style=social)](https://twitch.tv/fatal_cris)
